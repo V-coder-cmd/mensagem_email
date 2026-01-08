@@ -33,7 +33,7 @@ email_sender/
 
 ### 1️⃣ Clone o repositório
 ```bash
-git clone https://github.com/seuusuario/email-sender-python-api.git
+git clone https://github.com/V-coder-cmd/mensagem_email.git
 
 2️⃣ Instale as dependências
 
